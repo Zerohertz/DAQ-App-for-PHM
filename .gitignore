@@ -1,1 +1,2 @@
-Learned net.mat
+*.mat
+/DAQ_App_for_PHM_DNN/**
