@@ -1,4 +1,4 @@
- function [f, P1] = freqAnalysis(raw)
+ function [f, P1] = freq(raw)
     SamplingRate = 25600;
     %NyqFreq = SamplingRate / 2;
     y = fft(raw);
